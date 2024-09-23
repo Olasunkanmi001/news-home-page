@@ -8,7 +8,7 @@ const Main = () => {
 
         <div className='pt-5 lg:flex lg:justify-around lg:gap-28'>
             <div className=''>
-                <h1 className='text-5xl font-bold lg:pl-5'>The Bright Future of web 3.0?</h1>
+                <h1 className='text-5xl font-bold '>The Bright Future of web 3.0?</h1>
                 
                 
                 </div>

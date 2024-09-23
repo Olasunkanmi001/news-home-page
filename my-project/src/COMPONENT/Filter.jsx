@@ -36,7 +36,7 @@ const Filter = () => {
         {document.map((use)=>{
             const newLocal = 'text-[#838498] text-sm'
             return(
-                <div className=' pt-10'>
+                <div className=' pt-10 lg:pl-16'>
                     <div className='flex gap-5 '>
                         <div>
                             <img className='w-[120px] h-[120px] mb-4' src={use.image}/>
